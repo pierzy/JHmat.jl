@@ -1,0 +1,13 @@
+name = "JHmat"
+uuid = "d410a410-f1ed-11e9-1c4d-0dc2e136edaa"
+authors = ["pierzy"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
