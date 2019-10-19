@@ -505,8 +505,3 @@ deps = ["LinearAlgebra", "Random", "SparseArrays", "Test"]
 git-tree-sha1 = "21772c33b447757ec7d3e61fcdfb9ea5c47eedcf"
 uuid = "efce3f68-66dc-5838-9240-27a6d6f5f9b6"
 version = "0.4.1"
-
-[[caccapuzza]]
-path = "/Users/pier/.juliapro/JuliaPro_v1.2.0-1/dev/caccapuzza"
-uuid = "4f706844-f272-11e9-25ab-9fde4dd68915"
-version = "0.1.0"
