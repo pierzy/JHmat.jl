@@ -1,5 +1,6 @@
 module JHmat
 
-greet() = print("Hello World!")
+include("util.jl")
+export greet
 
 end # module

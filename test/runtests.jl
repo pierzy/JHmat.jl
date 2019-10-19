@@ -2,5 +2,6 @@ using JHmat
 using Test
 
 @testset "JHmat.jl" begin
-    # Write your own tests here.
+    
+    @test greet()==1
 end
