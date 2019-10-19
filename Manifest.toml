@@ -103,10 +103,6 @@ git-tree-sha1 = "d56f26542bb7af9c0ec16e098a0a33352f3c9d8e"
 uuid = "7ad07ef1-bdf2-5661-9d2b-286fd4296dac"
 version = "0.1.0"
 
-[[CredentialsHandler]]
-deps = ["Base64", "HTTP", "TOML"]
-uuid = "864e158e-919d-11e8-198e-cfe890ec4681"
-
 [[DataAPI]]
 git-tree-sha1 = "8903f0219d3472543fc4b2f5ebaf675a07f817c0"
 uuid = "9a962f9c-6df0-11e9-0e5d-c546b8b5ee8a"
